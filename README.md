@@ -9,6 +9,9 @@ This project presents the design and implementation of a multi-building enterpri
 The network includes a central campus, multiple buildings, a branch office, an ISP connection, servers, and a wireless network.
 
 The project demonstrates the practical implementation of enterprise networking technologies including VLANs, inter-VLAN routing, dynamic routing, network services, NAT/PAT, and site-to-site IPsec VPN.
+## 📸 Network Topology
+## 📸 Network Topology
+![Enterprise Campus Network Topology](Screenshots/topology.png)
 
 ## 🏗️ Network Architecture
 
